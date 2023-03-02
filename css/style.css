@@ -32,7 +32,7 @@ body{
 
 .container h2:nth-child(2) {
 	color: #911717;
-	animation: animate 5s ease-in-out infinite;
+	animation: animate 4s ease-in-out infinite;
 }
 
 
